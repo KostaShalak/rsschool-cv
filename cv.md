@@ -2,9 +2,9 @@
 
 ##Contact Info
 
-    * GitHub: KostaShalak
-    * Discord: AloneKS#3798
-    * Telegram: @Koshta91
+* GitHub: KostaShalak
+* Discord: AloneKS#3798
+* Telegram: @Koshta91
 
 ##About me
 
@@ -12,10 +12,10 @@ With the help of this course, I want to learn more about the area under consider
 
 ##Skills
 
-    * Programming: HTML, CSS, JS, React
-    * VCS: Git
-    * IDE: VS Code
-    * BEM methodoligia
+* Programming: HTML, CSS, JS, React
+* VCS: Git
+* IDE: VS Code
+* BEM methodoligia
 
 ##Code examples    
 
