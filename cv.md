@@ -1,23 +1,23 @@
-#Konstantin Shalak
+# Konstantin Shalak
 
-##Contact Info
-
+## Contact Info
+ 
 * GitHub: KostaShalak
 * Discord: AloneKS#3798
 * Telegram: @Koshta91
 
-##About me
+## About me
 
 With the help of this course, I want to learn more about the area under consideration in order to find a job in the future.
 
-##Skills
+## Skills
 
 * Programming: HTML, CSS, JS, React
 * VCS: Git
 * IDE: VS Code
 * BEM methodoligia
 
-##Code examples    
+## Code examples    
 
 ```html 
 <div class="nav__social">
@@ -29,7 +29,7 @@ With the help of this course, I want to learn more about the area under consider
 </div>
 ```
 
-##Experience
+## Experience
 
 No commercial experience
 
@@ -37,6 +37,6 @@ No commercial experience
 
 Secondary special education: Minsk College of Arts 2006 - 2010.
 
-##English
+## English
 
 Presumably: A1
