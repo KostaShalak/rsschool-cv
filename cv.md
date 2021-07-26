@@ -33,7 +33,7 @@ With the help of this course, I want to learn more about the area under consider
 
 No commercial experience
 
-##Education
+## Education
 
 Secondary special education: Minsk College of Arts 2006 - 2010.
 
