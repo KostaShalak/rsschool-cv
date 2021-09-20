@@ -29,7 +29,7 @@ ul {
 .header {
     background-color: #6C8CD5;
     border-radius: 36px;
-    margin-top: 15px;
+    margin-top: 40px;
 }
 
 .header-box {
@@ -42,6 +42,9 @@ ul {
 
 .header-logo img {
     max-width: 150px;
+    height: auto;
+    width: 100%;
+    transform: translateY(10%);
 }
 
 .header-title {
@@ -57,7 +60,7 @@ ul {
     justify-content: space-around;
     background-color: #6C8CD5;
     border-radius: 36px;
-    margin-top: 15px;
+    margin-top: 40px;
     padding: 30px 0;
 }
 
@@ -71,10 +74,26 @@ ul {
     align-items: center;
     background-color: #6C8CD5;
     border-radius: 36px;
-    margin-top: 15px;
+    margin-top: 40px;
     padding: 10px 0;
 }
 
 .footer-box img {
     height: 30px;
+}
+
+@media (max-width: 821px) {
+    .header-box {
+        display: block;
+        text-align: center;
+    }
+
+    .header-title {
+        max-width: 100%;
+    }
+
+    .content {
+        display: block;
+        text-align: center;
+    }
 }
