@@ -1,1 +1,1 @@
-https://KostaShalak.github.io/rsschool-cv/cv
+https://KostaShalak.github.io/rsschool-cv/
