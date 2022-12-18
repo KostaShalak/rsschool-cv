@@ -1,0 +1,139 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+    color: #FFF;
+}
+
+ul,
+li {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+p {
+    padding: 0;
+    margin: 0;
+}
+
+input,
+button,
+figure {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+body {
+    font-family: 'DM Sans', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: -0.05em;
+    color: #FCFBF7;
+}
+
+.section_bg {
+    background: #212224;
+} 
+
+.container {
+    max-width: 1230px;
+    margin: 0 auto;
+    padding: 40px 15px;
+}
+
+.header__wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333639;
+    border-radius: 24px;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.04);
+}
+
+.header__img {
+    margin: 50px;
+}
+
+.header__img img{
+    max-width: 100px;
+}
+
+.header__title {
+    font-size: 42px;
+    line-height: 26px;
+    margin-bottom: 10px;
+}
+
+.header__subtitle {
+    font-size: 18px;
+    line-height: 21px;
+    color: #F1B43E;
+}
+
+.header__contacts-items {
+    margin-right: 100px;
+}
+
+.header__contacts-item {
+    margin-bottom: 15px;
+}
+
+.main section {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.about__title,
+.skills__title,
+.code__title,
+.education__title,
+.lang__title {
+    font-size: 32px;
+    line-height: 24px;
+    margin-bottom: 20px;
+    color: #F1B43E;
+}
+
+.education__title {
+    padding-top: 20px;
+}
+
+.about p,
+.skills__item,
+.code code,
+.education__item,
+.lang__text {
+    font-size: 18px;
+    line-height: 21px;
+    margin-bottom: 10px;
+}
+
+.footer__contacts-items {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333639;
+    border-radius: 24px;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.04);
+    padding: 30px 30px;
+}
+
+.rs {
+    width: 70px;
+}
