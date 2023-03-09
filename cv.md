@@ -8,6 +8,7 @@
 * **GitHub:** [KostaShalak](https://github.com/KostaShalak "profile")
 
 ******************************
+
 ## About Me 
 
 I wanted to start a new life. To do this, I began to learn something new, and that's why I came for good skills.
@@ -32,3 +33,13 @@ function Hello() {
 ```
 
 ********************************************
+
+## Education and courses:
+* CS50 video course
+* JS, CSS, HTML, Git video courses on YouTube channel
+* FreeCodeCamp
+
+*********************************************
+
+## Language:
+English level - A1
