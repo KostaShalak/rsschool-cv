@@ -27,3 +27,12 @@ function Hello() {
 }
 ```
 ********************************************
+
+## Education and courses:
+* CS50 video course
+* JS, CSS, HTML, Git video courses on YouTube channel
+* FreeCodeCamp
+*********************************************
+
+## Language:
+English level - A1
