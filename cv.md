@@ -13,3 +13,22 @@
 I wanted to start a new life. To do this, I began to learn something new, and that's why I came for good skills.
 
 **********************************
+
+## Skills 
+
+* **HTML/CSS**
+* **JS/jquery**
+* **Git**
+* **Figma**
+
+*************************************
+
+## Code examples
+
+```
+function Hello() {
+    alert("Привет, мир!");
+}
+```
+
+********************************************
